@@ -1,6 +1,6 @@
 # NucleoVisualizador
 
-Basado en [OpenLayers](https://openlayers.org/), NucleoVisualizador es una librería para integrar fácilmente un mapa preconfigurado con varias capas servidas por el IGN-CNIG de forma rápida y sencilla utilizando Widgets de JQuery UI. Tambien permite añadir otros widgets como el de busqueda de topónimos y direcciones, herramientas de medición de longitud y área, añadir capas de otras fuentes como WMS, WMTS y vectoriales.
+Basado en [OpenLayers](https://openlayers.org/), NucleoVisualizador es una librería para integrar fácilmente un mapa preconfigurado con varias capas servidas por el IGN-CNIG de forma rápida y sencilla en cualquier página web utilizando Widgets de JQuery UI. Tambien permite añadir widgets como el de busqueda de topónimos y direcciones, herramientas de medición de longitud y área, añadir capas de otras fuentes como WMS, WMTS y vectoriales.
 
 ## Getting Started
 
