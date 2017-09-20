@@ -1,0 +1,24 @@
+numVersion=""; //Current V2_2
+//IGN_URL_REPOSITORY = "http://localhost:8081/NucleoVisualizador" + numVersion; 
+//IGN_URL_REPOSITORY = "http://desarrollo01.cnig.es/NucleoVisualizador" + numVersion; 
+IGN_URL_REPOSITORY = "http://componentes.ign.es/NucleoVisualizador" + numVersion; 
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_Constants.js'></script>");
+document.write("<link rel='stylesheet' href='http://openlayers.org/en/v3.0.0/css/ol.css' type='text/css'>");
+document.write("<link rel='stylesheet' href='http://code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css'>");
+document.write("<link href='"+IGN_URL_REPOSITORY+"/menuCss/menu.css' rel='stylesheet' type='text/css'>");
+document.write("<link href='"+IGN_URL_REPOSITORY+"/menuCss/iconos.css' rel='stylesheet' type='text/css'>");
+document.write("<link href='"+IGN_URL_REPOSITORY+"/css/ApiVis-main.css' rel='stylesheet' type='text/css'>");
+document.write("<script src='http://code.jquery.com/jquery-1.11.1.min.js'></script>");
+document.write("<script src='http://code.jquery.com/ui/1.11.1/jquery-ui.min.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/js/i18next-1.7.7.min.js' type='text/javascript'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/js/jquery.form.min.js' type='text/javascript'></script>");
+document.write("<script src='http://openlayers.org/en/v3.8.2/build/ol.js' type='text/javascript'></script>");
+document.write("<script src='http://cdnjs.cloudflare.com/ajax/libs/proj4js/2.2.2/proj4.js' type='text/javascript'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_search.js'></script>");
+document.write("<script src='http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_Vector_Layer.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_Control_Panel.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_Service_Layers.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/js/wicket.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/js/modernizr.js'></script>");
+document.write("<script src='"+IGN_URL_REPOSITORY+"/IGN_API_CORE.js'></script>");

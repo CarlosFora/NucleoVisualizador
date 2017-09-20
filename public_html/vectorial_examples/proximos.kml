@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+        <Document>
+                <!-- Name to display -->
+                <name>IMSDS</name>
+                <!-- Entry point of view -->
+                <LookAt>
+                        <longitude>-3.00</longitude>
+                        <latitude>40.00</latitude>
+                        <range>2000000</range>
+                        <tilt>0</tilt>
+                        <heading>0</heading>
+                </LookAt>
+
+                <Style id="orange">
+                        <IconStyle>
+                                <Icon>
+                                        <href>http://www.ign.es/ign/resources/sismologia/ICONS/MagCat_2_orange.png</href>
+                                <scale>0.8</scale>
+                                </Icon>
+                        </IconStyle>
+                </Style>
+                <Style id="lightorange">
+                        <IconStyle>
+                                <Icon>
+                                        <href>http://www.ign.es/ign/resources/sismologia/ICONS/MagCat_1_lightorange.png</href>
+                                </Icon>
+                                <scale>0.7</scale>
+                        </IconStyle>
+                </Style>
+                <Style id="red">
+                        <IconStyle>
+                                <Icon>
+                                        <href>http://www.ign.es/ign/resources/sismologia/ICONS/MagCat_3_red.png</href>
+                                </Icon>
+                                <scale>1.0</scale> 
+                        </IconStyle>
+                </Style>
+                <Style id="ultimo">
+                        <IconStyle>
+                                <Icon>
+                                        <href>http://www.ign.es/ign/resources/sismologia/ICONS/pen_move.gif</href>
+                                </Icon>
+                        </IconStyle>
+                </Style>
+                <Style id="yellow">
+                        <IconStyle>
+                                <Icon>
+                                        <href>http://www.ign.es/ign/resources/sismologia/ICONS/MagCat_0_yellow.png</href>
+                                </Icon>
+                                <scale>0.5</scale>
+                        </IconStyle>
+                </Style>
+<!-- 1282411 -->
+<Placemark id="1282411">
+   <name>MEDITERRÁNEO-CABO DE PALOS</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/06/30 07:10:28</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/06/30 05:10:28</strong><br />MAGNITUD: <strong>2.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282411" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282411" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.0777,38.1322</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282416 -->
+<Placemark id="1282416">
+   <name>NW SANTA FE DE MONDÚJAR.AL</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/06/30 08:10:05</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/06/30 06:10:05</strong><br />MAGNITUD: <strong>1.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282416" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282416" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-2.5416,36.9939</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282430 -->
+<Placemark id="1282430">
+   <name>SE ARUDY.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/06/30 09:46:09</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/06/30 07:46:09</strong><br />MAGNITUD: <strong>2.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282430" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282430" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.3339,43.1029</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282501 -->
+<Placemark id="1282501">
+   <name>SE TORREVIEJA.A</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/06/30 22:16:12</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/06/30 20:16:12</strong><br />MAGNITUD: <strong>1.2</strong><br /> INTENSIDAD: II </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282501" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282501" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.6190,37.9611</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282504 -->
+<Placemark id="1282504">
+   <name>SW CABO DE SAN VICENTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/01 04:19:29</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/01 02:19:29</strong><br />MAGNITUD: <strong>2.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282504" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282504" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-9.8026,36.5735</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282599 -->
+<Placemark id="1282599">
+   <name>SW SANTIAGO DE COVELO.PO</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/01 20:51:30</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/01 18:51:30</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282599" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282599" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-8.4628,42.1863</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282605 -->
+<Placemark id="1282605">
+   <name>N ALCUBILLAS.CR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 01:51:48</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/01 23:51:48</strong><br />MAGNITUD: <strong>1.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282605" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282605" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.1126,38.8252</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282607 -->
+<Placemark id="1282607">
+   <name>N ALCUBILLAS.CR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 01:53:20</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/01 23:53:20</strong><br />MAGNITUD: <strong>1.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282607" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282607" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.1162,38.8311</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282617 -->
+<Placemark id="1282617">
+   <name>SW ARUDY.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 09:02:22</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 07:02:22</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282617" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282617" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.4852,43.1046</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282624 -->
+<Placemark id="1282624">
+   <name>SW ARUDY.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 09:07:25</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 07:07:25</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282624" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282624" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.5090,43.1018</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282628 -->
+<Placemark id="1282628">
+   <name>SW FRONTERA.IHI</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 08:34:53</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 07:34:53</strong><br />MAGNITUD: <strong>1.7</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282628" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282628" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-18.0652,27.7276</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282703 -->
+<Placemark id="1282703">
+   <name>W FRONTERA.IHI</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 13:01:36</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 12:01:36</strong><br />MAGNITUD: <strong>2.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282703" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282703" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-18.0059,27.7562</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282709 -->
+<Placemark id="1282709">
+   <name>SE GIJÓN.O</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 18:53:40</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 16:53:40</strong><br />MAGNITUD: <strong>2.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282709" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282709" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-5.6342,43.5250</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282711 -->
+<Placemark id="1282711">
+   <name>SW FRONTERA.IHI</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/02 22:31:31</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 21:31:31</strong><br />MAGNITUD: <strong>1.9</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282711" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282711" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-18.0610,27.7151</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282713 -->
+<Placemark id="1282713">
+   <name>GOLFO DE CÁDIZ</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/03 01:54:29</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/02 23:54:29</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282713" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282713" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.9312,36.2540</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282715 -->
+<Placemark id="1282715">
+   <name>W CHLEF.ARG</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/03 04:59:10</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/03 02:59:10</strong><br />MAGNITUD: <strong>4.4</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282715" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282715" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#red</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>1.3919,35.9592</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282756 -->
+<Placemark id="1282756">
+   <name>SW OLORON STE MARIE.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/03 10:26:47</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/03 08:26:47</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282756" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282756" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.6368,43.1896</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282839 -->
+<Placemark id="1282839">
+   <name>NE A MEZQUITA.OU</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/03 14:07:53</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/03 12:07:53</strong><br />MAGNITUD: <strong>2.9</strong><br /> INTENSIDAD: II </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282839" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282839" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.0352,42.0362</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282983 -->
+<Placemark id="1282983">
+   <name>W ATARFE.GR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/03 23:45:47</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/03 21:45:47</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282983" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282983" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.7066,37.2234</coordinates>
+   </Point>
+</Placemark>
+<!-- 1282991 -->
+<Placemark id="1282991">
+   <name>SW BECERREÁ.LU</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/04 01:09:20</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/03 23:09:20</strong><br />MAGNITUD: <strong>1.9</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1282991" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1282991" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.2132,42.8141</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283000 -->
+<Placemark id="1283000">
+   <name>E EL RONQUILLO.SE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/04 05:02:58</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/04 03:02:58</strong><br />MAGNITUD: <strong>2.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283000" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283000" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-6.1066,37.7183</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283015 -->
+<Placemark id="1283015">
+   <name>ALBORÁN OESTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/04 07:27:37</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/04 05:27:37</strong><br />MAGNITUD: <strong>2.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283015" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283015" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-4.5624,36.0535</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283194 -->
+<Placemark id="1283194">
+   <name>NE SANTA CATALIÑA DE ARMADA.C</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/04 17:39:13</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/04 15:39:13</strong><br />MAGNITUD: <strong>2.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283194" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283194" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-8.7701,43.0783</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283200 -->
+<Placemark id="1283200">
+   <name>W CAUTERETS.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/04 19:52:46</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/04 17:52:46</strong><br />MAGNITUD: <strong>2.7</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283200" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283200" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.2785,42.8804</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283268 -->
+<Placemark id="1283268">
+   <name>SE TABOADA.LU</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/05 02:30:32</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/05 00:30:32</strong><br />MAGNITUD: <strong>1.7</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283268" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283268" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.6799,42.6955</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283274 -->
+<Placemark id="1283274">
+   <name>ATLÁNTICO-CANARIAS</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/05 04:35:21</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/05 03:35:21</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283274" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283274" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-16.1419,28.1838</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283289 -->
+<Placemark id="1283289">
+   <name>SW CABO DE SAN VICENTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/05 11:29:34</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/05 09:29:34</strong><br />MAGNITUD: <strong>2.3</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283289" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283289" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-9.7736,36.6169</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283310 -->
+<Placemark id="1283310">
+   <name>E ARRAIOLOS.POR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/05 23:58:01</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/05 21:58:01</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283310" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283310" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.9487,38.7229</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283315 -->
+<Placemark id="1283315">
+   <name>GOLFO DE CÁDIZ</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/06 01:09:21</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/05 23:09:21</strong><br />MAGNITUD: <strong>3.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283315" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283315" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-8.0618,36.7862</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283332 -->
+<Placemark id="1283332">
+   <name>NE VÉLEZ-BLANCO.AL</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/06 12:34:00</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/06 10:34:00</strong><br />MAGNITUD: <strong>2.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283332" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283332" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-2.0218,37.7809</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283336 -->
+<Placemark id="1283336">
+   <name>ATLÁNTICO-MADEIRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/06 12:43:58</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/06 10:43:58</strong><br />MAGNITUD: <strong>4.7</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283336" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283336" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#red</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-16.2038,32.5963</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283355 -->
+<Placemark id="1283355">
+   <name>NE ORAN.ARG</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/06 18:51:55</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/06 16:51:55</strong><br />MAGNITUD: <strong>1.9</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283355" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283355" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.5544,35.8912</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283356 -->
+<Placemark id="1283356">
+   <name>SE AGRÓN.GR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/06 20:35:20</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/06 18:35:20</strong><br />MAGNITUD: <strong>1.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283356" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283356" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.7714,37.0056</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283360 -->
+<Placemark id="1283360">
+   <name>S MONCHIQUE.POR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/07 02:27:52</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/07 00:27:52</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283360" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283360" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-8.5466,37.2371</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283362 -->
+<Placemark id="1283362">
+   <name>W FRONTERA.IHI</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/07 02:48:53</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/07 01:48:53</strong><br />MAGNITUD: <strong>1.5</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283362" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283362" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-18.1414,27.7528</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283366 -->
+<Placemark id="1283366">
+   <name>NW CAUTERETS.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/07 05:57:16</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/07 03:57:16</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283366" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283366" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.2086,42.9561</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283498 -->
+<Placemark id="1283498">
+   <name>NW LA MONGIE.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/07 15:46:35</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/07 13:46:35</strong><br />MAGNITUD: <strong>2.4</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283498" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283498" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>.1475,43.0015</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283504 -->
+<Placemark id="1283504">
+   <name>ALBORÁN NORTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/07 19:16:21</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/07 17:16:21</strong><br />MAGNITUD: <strong>1.7</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283504" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283504" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.1342,36.4546</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283505 -->
+<Placemark id="1283505">
+   <name>ALBORÁN NORTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 02:00:36</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 00:00:36</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283505" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283505" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.1195,36.4484</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283507 -->
+<Placemark id="1283507">
+   <name>ALBORÁN NORTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 02:21:40</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 00:21:40</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283507" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283507" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.1118,36.4546</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283515 -->
+<Placemark id="1283515">
+   <name>NE GUNTÍN DE PALLARES.LU</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 07:12:08</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 05:12:08</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283515" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283515" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.6426,42.9327</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283516 -->
+<Placemark id="1283516">
+   <name>W PADUL.GR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 08:45:02</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 06:45:02</strong><br />MAGNITUD: <strong>2.0</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283516" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283516" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.7039,37.0300</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283597 -->
+<Placemark id="1283597">
+   <name>SW CABO DE SAN VICENTE</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 17:49:36</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 15:49:36</strong><br />MAGNITUD: <strong>2.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283597" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283597" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-9.7320,36.6930</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283598 -->
+<Placemark id="1283598">
+   <name>SW RELIZANE.ARG</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 20:25:35</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 18:25:35</strong><br />MAGNITUD: <strong>3.9</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283598" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283598" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#orange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>.3887,35.6601</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283606 -->
+<Placemark id="1283606">
+   <name>SW TORRE-SERONA.L</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/08 23:16:48</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 21:16:48</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283606" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283606" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>.6179,41.6575</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283614 -->
+<Placemark id="1283614">
+   <name>GOLFO DE CÁDIZ</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 01:16:11</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/08 23:16:11</strong><br />MAGNITUD: <strong>2.4</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283614" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283614" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.6516,36.6105</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283649 -->
+<Placemark id="1283649">
+   <name>NE S. BRÁS DE ALPORTEL.POR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 04:24:15</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 02:24:15</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283649" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283649" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.8458,37.2423</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283650 -->
+<Placemark id="1283650">
+   <name>NW LA MONGIE.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 04:45:26</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 02:45:26</strong><br />MAGNITUD: <strong>1.8</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283650" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283650" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>.1569,43.0020</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283657 -->
+<Placemark id="1283657">
+   <name>GOLFO DE CÁDIZ</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 10:04:26</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 08:04:26</strong><br />MAGNITUD: <strong>3.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283657" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283657" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#orange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-7.4673,35.9492</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283691 -->
+<Placemark id="1283691">
+   <name>NW CAUTERETS.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 13:14:22</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 11:14:22</strong><br />MAGNITUD: <strong>2.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283691" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283691" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.2478,42.9210</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283741 -->
+<Placemark id="1283741">
+   <name>NW CAUTERETS.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 13:58:53</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 11:58:53</strong><br />MAGNITUD: <strong>3.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283741" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283741" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#orange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.2642,42.8932</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283789 -->
+<Placemark id="1283789">
+   <name>SE ROJALES.A</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 17:32:21</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 15:32:21</strong><br />MAGNITUD: <strong>1.0</strong><br /> INTENSIDAD: II </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283789" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283789" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-.7098,38.0694</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283794 -->
+<Placemark id="1283794">
+   <name>SW ARENAS DEL REY.GR</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 20:36:23</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 18:36:23</strong><br />MAGNITUD: <strong>4.1</strong><br /> INTENSIDAD: II-III </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283794" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283794" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#red</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-3.9320,36.8916</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283827 -->
+<Placemark id="1283827">
+   <name>NE SALARES.MA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 20:44:17</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 18:44:17</strong><br />MAGNITUD: <strong>2.1</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283827" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283827" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-4.0010,36.8651</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283828 -->
+<Placemark id="1283828">
+   <name>NW EL PINAR.IHI</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/09 21:26:45</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 20:26:45</strong><br />MAGNITUD: <strong>1.6</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283828" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283828" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-18.0076,27.7196</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283829 -->
+<Placemark id="1283829">
+   <name>NE BAREGES.FRA</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/10 01:15:44</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/09 23:15:44</strong><br />MAGNITUD: <strong>1.9</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283829" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283829" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#yellow</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>.1198,42.9669</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283853 -->
+<Placemark id="1283853">
+   <name>ATLÁNTICO-PORTUGAL</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/10 11:30:40</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/10 09:30:40</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283853" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283853" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#lightorange</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-10.0680,38.3110</coordinates>
+   </Point>
+</Placemark>
+<!-- 1283853 -->
+<Placemark id="1283853    ">
+   <name>ATLÁNTICO-PORTUGAL</name>
+   <description>
+   <![CDATA[
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif" color="#447">Fecha y hora (LOCAL): <strong>2014/07/10 11:30:40</strong><br />Fecha y hora (GMT): &nbsp;&nbsp;&nbsp;<strong>2014/07/10 09:30:40</strong><br />MAGNITUD: <strong>2.2</strong><br />  </font>
+</p>
+<p>
+<font face="Trebuchet MS, Arial, Helvetica, sans-serif"><a href="http://www.02.ign.es/ign/layoutIn/geofisicaCuestionarioMacrosismico.do?evid=1283853" ><font face="Trebuchet MS, Arial, Helvetica, sans-serif">&iquest;Has sentido este terremoto?</a><br /><a href="http://www.ign.es/ign/layoutIn/sismoDetalleTerremotos.do?evid=1283853" >+info</a></font>
+</p>
+   ]]>
+   </description>
+   <styleUrl>#ultimo</styleUrl>
+   <Point>
+   <extrude>1</extrude>
+   <altitudeMode>relativeToGround</altitudeMode>
+   <coordinates>-10.0680,38.3110</coordinates>
+   </Point>
+</Placemark>
+        </Document>
+</kml>
+

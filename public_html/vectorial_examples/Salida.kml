@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>Earth Point Excel To KML</name>
+    <open>1</open>
+    <Snippet maxLines="1">Resultados_mayo3.xlsx</Snippet>
+    <description><![CDATA[Source: Resultados_mayo3.xlsx<br/>DateTime: 2014-05-07 10:56:39 UTC<br/><br/>&copy;2014 Earth Point<br/><a target='_blank' href='http://www.earthpoint.us'>www.earthpoint.us</a><br/><br/>For illustration only.&nbsp; User to verify all information.]]></description>
+    <LookAt>
+      <longitude>-19.4335421142857</longitude>
+      <latitude>38.1219084857143</latitude>
+      <altitude>0</altitude>
+      <heading>0</heading>
+      <tilt>0</tilt>
+      <range>2000000</range>
+    </LookAt>
+    <Style>
+      <IconStyle>
+        <Icon />
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+        <textColor>ff000000</textColor>
+        <displayMode>default</displayMode>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="Sheet1Map2">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NormalSheet1Map2</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#HighlightSheet1Map2</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="HighlightSheet1Map1">
+      <IconStyle>
+        <Icon>
+          <href>http://www.earthpoint.us/Dots/GoogleEarth/WhitePal2/icon5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>70ff00ff</color>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="Sheet1Map1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#NormalSheet1Map1</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#HighlightSheet1Map1</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="NormalSheet1Map1">
+      <IconStyle>
+        <Icon>
+          <href>http://www.earthpoint.us/Dots/GoogleEarth/WhitePal2/icon13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle />
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ff00ff</color>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Style id="NormalSheet1Map2">
+      <IconStyle>
+        <Icon>
+          <href>http://www.earthpoint.us/Dots/GoogleEarth/pal2/icon13.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle />
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00ff00ff</color>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Style id="HighlightSheet1Map2">
+      <IconStyle>
+        <Icon>
+          <href>http://www.earthpoint.us/Dots/GoogleEarth/pal2/icon5.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+      </BalloonStyle>
+      <LineStyle>
+        <color>ffff00ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>70ff00ff</color>
+        <fill>0</fill>
+      </PolyStyle>
+    </Style>
+    <Folder>
+      <name>Hoja1</name>
+      <Placemark>
+        <name>JITOMATES</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>American School Foundation of Guadalajara</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Guadalajara, Jalisco, México</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>20.7020765</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-103.3714847</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=AMUfEcFCF4s">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-103.3714847</longitude>
+          <latitude>20.7020765</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-103.3714847,20.7020765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NOPALAWERS</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>American School Foundation of Guadalajara</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Guadalajara, Jalisco, México</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>20.695817</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-103.37528</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=H4D4NSnTMD8">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-103.37528</longitude>
+          <latitude>20.695817</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-103.37528,20.695817,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3D GA</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Colegio Apóstol Santiago</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Vigo, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.246502</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.703311</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=vdIWdbHiET4">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.703310999999999</longitude>
+          <latitude>42.246502</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.703310999999999,42.246502,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3D SWING</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Colegio Apóstol Santiago</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Vigo, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.24716</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.702194</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=T4GEOoNKdUI">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.702194</longitude>
+          <latitude>42.24716</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.702194,42.24716,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TECNOAPOSTOL</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Colegio Apóstol Santiago</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Vigo, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.246938</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.701848</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=CPVNDMEGOuU">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.701848</longitude>
+          <latitude>42.246938</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.701848,42.246938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THE MECHANICAL BROTHERS</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Colegio Apóstol Santiago</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Vigo, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.2466107</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.7024107</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=yUaUqfOdMvU">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.7024107</longitude>
+          <latitude>42.2466107</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.7024107,42.2466107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MOSFET</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Compañía de María de A Coruña</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>La Coruña, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>43.361725</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.413832</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/sb1H2mxllCI">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.413831999999999</longitude>
+          <latitude>43.361725</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.413831999999999,43.361725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D3MOBILE</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Escuela Politécnica Superior de Lugo - USC</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Lugo, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.994675</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-7.545725</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; width: 600px;'><a href="http://www.youtube.com/watch?v=Eg4zgvKP75M&feature=em-share_video_user">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-7.545725</longitude>
+          <latitude>42.994675</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map2</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-7.545725000000001,42.994675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JESUITINAS</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>HIjas de Jesús</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Pamplona, Navarra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.8218</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-1.6283</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=cBQN1Q-s7Mw">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-1.6283</longitude>
+          <latitude>42.8218</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-1.6283,42.8218,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TECNOSANG2.1</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. A Sangriña</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>La Guardia, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>41.90266</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.864447</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/9PwdOjVo0Yc">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.864447</longitude>
+          <latitude>41.90266</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.864447,41.90266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>D3MEAÑO4º</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. de Meaño</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Meaño, Pontevedra, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.456738</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.814002</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/sbMWRPYuNQQ">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.814002</longitude>
+          <latitude>42.456738</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.814002,42.456738,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JYGA</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. El Batán</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Mieres, Asturias, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>43.25801</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-5.778655</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=VWvUldQtZ3w">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-5.778655</longitude>
+          <latitude>43.25801</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-5.778655000000001,43.25801,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TORRENTE1</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Gonzalo Torrente Ballester</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Santa Marta de Tormes, Salamanca, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>40.95295</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-5.619588</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/LJvxxE-OQOI">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-5.619588</longitude>
+          <latitude>40.95295</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-5.619588,40.95295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DA VINCI</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Leonardo da Vinci</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Alicante, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>38.377228</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-0.491864</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/apTVQAa7s8M">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-0.491864</longitude>
+          <latitude>38.377228</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-0.491864,38.377228,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALTEBE</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Marmaria</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Membrilla, Ciudad Real, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>38.9791</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-3.3491</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=arfahDI1iJA&feature=youtu.be">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-3.3491</longitude>
+          <latitude>38.9791</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-3.3491,38.9791,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PARD3</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Poeta Díaz Castro</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Guitiriz, Lugo, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>43.179577</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-7.894702</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/dactQHGBpho">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-7.894702</longitude>
+          <latitude>43.179577</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-7.894702,43.179577,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAD3</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Ricardo Ortega</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Fuente Álamo, Murcia, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>37.724854</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-1.167778</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=1KZyMf4G3iw&feature=youtu.be">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-1.167778</longitude>
+          <latitude>37.724854</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-1.167778,37.724854,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>METROLOGICAL</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Ricardo Ortega</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Fuente Álamo, Murcia, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>37.724682</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-1.16655</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; width: 600px;'><a href="https://www.youtube.com/watch?v=X8qnACZMXOQ&feature=youtube_gdata_player">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-1.16655</longitude>
+          <latitude>37.724682</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-1.16655,37.724682,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAURAS</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Vegas Bajas</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Montijo, Badajoz, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>38.906031</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-6.607663</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://youtu.be/VSVc-vVm6-o">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-6.607663</longitude>
+          <latitude>38.906031</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-6.607662999999999,38.906031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>NIKRARIENSE</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>I.E.S. Xulián Magariños</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Negreira, La Coruña, España</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>42.912401</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-8.73345</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="https://www.youtube.com/watch?v=bR-caED9-0Q&feature=youtu.be">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-8.73345</longitude>
+          <latitude>42.912401</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-8.73345,42.912401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SHICELA</name>
+        <Snippet maxLines="0" />
+        <description><![CDATA[<table border='0' cellspacing='0' cellpadding='0'><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Centro</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Sagrado Corazon de Jesús</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Localidad</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>Guatemala, Guatemala</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Latitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>14.622543</td></tr><tr><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Longitud</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'>-90.4722</td></tr><tr bgcolor='#FFFFFF' ><td style='vertical-align: top; padding-left: 10px; white-space: nowrap;'><b>Enlace</b></td><td style='vertical-align: top; padding-left: 6px; padding-right: 10px; white-space: nowrap;'><a href="http://www.youtube.com/watch?v=0MwH6KW-0aQ">ver vídeo</a></td></tr></table>]]></description>
+        <LookAt>
+          <longitude>-90.4722</longitude>
+          <latitude>14.622543</latitude>
+          <altitude>0</altitude>
+          <heading>0</heading>
+          <tilt>0</tilt>
+          <range>1000</range>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </LookAt>
+        <styleUrl>#Sheet1Map1</styleUrl>
+        <ExtendedData />
+        <Point>
+          <coordinates>-90.4722,14.622543,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,675 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[visor.kml]]></name>
+        <desc><![CDATA[Converted from a KML file KML2GPX.COM]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="42.75" lon="-2.33">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE ALDA]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    ALDA
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi Red Araba  
+  
+  
+    LOCALIZACI&Oacute;N
+    Alda, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    ALDA
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi Red Araba  
+  
+  
+    LOCALIZACI&Oacute;N
+    Alda, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="43.06" lon="-3.00">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE AMURRIO]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    AMUR
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Amurrio, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    AMUR
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Amurrio, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="43.07" lon="-2.71">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE BARAZAR]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    BRZR
+  
+  
+    ESTADO
+    Sin conexi&oacute;n
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Barazar, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    BRZR
+  
+  
+    ESTADO
+    Sin conexi&oacute;n
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Barazar, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="42.51" lon="-2.62">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE ELCIEGO]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    ELCI
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Elciego, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    ELCI
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Elciego, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="43.32" lon="-2.68">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE GUERNIKA]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    GERN
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Gernika, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    GERN
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Gernika, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="42.72" lon="-2.98">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE LANTARON]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    LANT
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Lantarón, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    LANT
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Lantarón, Álava / Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="43.28" lon="-3.15">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE SOPUERTA]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    SOPU
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Sopuerta, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    SOPU
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Bizkaia
+  
+  
+    LOCALIZACI&Oacute;N
+    Sopuerta, Bizkaia
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="42.84" lon="-2.67">
+                                                            <ele>0</ele>
+                    <name><![CDATA[ESTACIÓN DE REFERENCIA DE VITORIA]]></name>
+                    <cmt><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    VITO
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Vitoria, Álava/Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></cmt>
+                    <desc><![CDATA[Documento sin titulo
+
+
+
+
+
+
+
+  
+    IDENTIFICADOR
+    VITO
+  
+  
+    ESTADO
+    Emitiendo
+  
+  
+    RED
+    Red Euskadi  Red Araba
+  
+  
+    LOCALIZACI&Oacute;N
+    Vitoria, Álava/Araba
+  
+  
+    PROPIETARIO
+    Gobierno Vasco
+  
+  
+    CONSTELACI&Oacute;N
+    GPS y GLONASS
+  
+    
+    ACTUALIZACI&Oacute;N
+    2015-05-12 08:00
+  
+  
+    Descarga RINEX
+    ftp://62.99.86.141/]]></desc>
+                </wpt>
+                                                            
+                    
+    
+</gpx>

@@ -1,0 +1,120 @@
+.apiIgn *, .apiIgn *::after, .apiIgn *::before {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+.apiIgn *::after, .apiIgn *::before { content: '';} 
+
+
+.apiIgn .apiIgn-baselayerSelector {position: absolute;z-index:100003;display: block;width: 30px;height: 30px;top:8px;right:10px;cursor: pointer;}
+
+/* a#configMenu{position: absolute;top: 10;right: 90;width: 35px;height: 35px;font-weight: bold;font-size: 32px;color: #fff; */
+/* background: #00849F;border-radius: 0;text-decoration: none;text-align: center;border-radius:3px;} */
+/* a#configMenu:hover, a#configMenu.active{background:#fff;color:#00849F;} */
+
+.apiIgn .toolsPanel a.config{font-size:14px;color:#00849F;font-weight:bold;line-height:32px;text-decoration:none;display:block;padding-left:10px;}
+.apiIgn .toolsPanel a.config:before{margin-right:5px;}
+
+/* .cd-panel-config { */
+/* position: absolute; */
+/* width: 300px; */
+/* min-height: 110px; */
+/* top: 45px; */
+/* right:0px; */
+/* background: #ffffff; */
+/* padding:0px; */
+/* font-family:Trebuchet MS; */
+/* opacity:0; */
+/* box-shadow: -11px 12px 17px 3px #2e2e2e; */
+/* -webkit-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000);  */
+/* -moz-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000);  */
+/* -o-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000);  */
+/* transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); */
+/* display: none; */
+/* } */
+
+/*.cd-panel-config.is-visible {top: 45px;right:20px; opacity:100; z-index:5}*/
+/* .cd-panel-config.is-visible {top: 45px;right:1%; opacity:100;display: block;z-index:5;} */
+
+/****** Tool panel *****/
+
+.apiIgn a.apiIgn-toolsMenu{position: absolute;top: 0;right: 0;width: 30px;height: 30px;font-weight: bold;font-size: 30px;color: #fff!important;background: #00849F;text-decoration: none;text-align: center;border-radius:4px;box-shadow:-1px 1px 5px 1px #2e2e2e;font-family:'viewer', Calibri, verdana, sans-serif}
+.apiIgn a.apiIgn-toolsMenu:hover, a.apiIgn-toolsMenu.active{background:#fff;color:#00849F!important;}
+
+/*flecha del menu*/
+.apiIgn .apiIgn-toolsMenu.active:after/*, #configMenu.active:after */{
+	border: solid transparent;content: " ";	height: 0;width: 0;position: absolute;pointer-events: none;
+	top: 100%;	margin-top: -1px;
+	border-color: transparent;border-width: 15px;	margin-left: -15px;	margin-top:-2px;left: 50%;
+	border-top-color: #fff;}
+
+.apiIgn .apiIgn-cdPanel{position: absolute;width: 314px;padding:5px;border-radius:10px;border:1px outset #F3EFEF;min-height: 110px;
+	top: 38px;right:0px;background: #ffffff;padding:0px;font-family: Calibri, Verdana, sans-serif;
+	opacity:0;box-shadow: -11px 12px 17px 3px #2e2e2e;
+	-webkit-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	-moz-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	-o-transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000); 
+	transition: all 500ms cubic-bezier(0.250, 0.100, 0.250, 1.000);
+	display:none;
+}
+
+
+.apiIgn .apiIgn-cdPanel.is-visible {right:0.3%; opacity:100;z-index:5; display:block;width: 314px;padding:5px;border-radius:10px;}
+
+/*panel fijo: herramientas*/
+.apiIgn .apiIgn-toolsPanel{float:left;clear:both;display:block;width:300px;height:80px;}
+
+.apiIgn .apiIgn-toolspanelTitle{width:100%; background:#00849F;height:26px;clear:both;border-radius:4px;}
+.apiIgn .apiIgn-toolspanelTitle a{font-size:14px;color:#fff!important;font-weight:bold;line-height:26px;text-decoration:none;display:block;padding-left: 10px;font-family: 'viewer', Calibri, verdana, sans-serif!important}
+.apiIgn .apiIgn-toolspanelTitle a:before{margin-right:5px;}
+
+.apiIgn .toolsPanel{width:100%; background:#fff;height:50px;clear:both;margin:0 auto;}
+
+.apiIgn .apiIgn-toolsPanelBox{width: 20%;30px;height: 40px;margin: 5px;float: left;border-radius: 5px;color: #00849F;float: left;text-align: center;box-shadow: -1px 1px 5px 1px silver;margin-left:10px;}
+.apiIgn .apiIgn-toolsPanelBox:hover, .apiIgn-map .apiIgn-toolsPanelBox.active{box-shadow: 0 1px 3px #2e2e2e inset;-moz-box-shadow: 0 1px 3px #2e2e2e inset;-webkit-box-shadow: 0 1px 3px #2e2e2e inset;}
+.apiIgn .apiIgn-toolsPanelBox a{text-decoration:none!important;display:block;font-family: 'viewer', Calibri, verdana, sans-serif!important;}
+.apiIgn .apiIgn-toolsPanelBox a:before{text-decoration: none;font-size: 24px;color: #00849F;text-align: center;line-height:40px;display: block;}
+
+/*paneles flotantes*/
+.apiIgn .apiIgn-panelBlock{width:100%;float:left;clear:both;display:block;}
+.apiIgn .apiIgn-panelTitle{width:100%; background:#00849F;height:26px;clear:both;display:block;float:left;border-top:1px solid #fff;border-radius:4px;}
+.apiIgn .apiIgn-panelTitle a{font-size:14px;color:#fff!important;font-weight:bold;line-height:26px;text-decoration:none;display:block;padding-left:10px;}
+.apiIgn .apiIgn-panelTitle a:before{margin-right:5px;}
+
+
+.apiIgn .apiIgn-panel{width:100%; background:#fff;clear:both;float:left;clear:both;display:none;padding:10px;font-family:Calibri,Verdana,sans-serif;font-size:13px;color:#557A9A;}
+.apiIgn .apiIgn-panel.is-visible{opacity:100;}
+
+.apiIgn .apiIgn-panel input[type="button"], .apiIgn .apiIgn-gestorLayer input[type="button"]{    background-color: #00849F;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 4px;
+    color: #ffffff;
+    float: left;
+    border-top: 1px solid #fff;
+    font-size: 12px;
+    font-family: Calibri, Verdana, sans-serif;
+    height: 22px;
+    width: 75px;
+    border: none;
+    cursor: pointer;
+}
+.apiIgn .apiIgn-panel input[type="button"]:hover, .apiIgn .apiIgn-gestorLayer input[type="button"]:hover{background:#fff;color:#00849F;border:1px solid #00849F;}
+
+.apiIgn .apiIgn-gestorLayer input[type="text"], .apiIgn .apiIgn-panel input[type="text"], .apiIgn .apiIgn-panel select, .apiIgn .apiIgn-panel input.upload{border:1px solid silver;width:100%;border-radius:4px;font-size:12px;color:#6e6e6e;line-height:12px;height:22px;font-family:Calibri, Verdana, sans-serif;}
+.apiIgn .apiIgn-LocalUpload .apiIgn-fileUpload input.upload {margin-top: 10px;position: absolute;left: 5px;margin: 0;padding: 0;font-size: 11px;
+		cursor: pointer;opacity: 0;filter: alpha(opacity=0);height: 22px;color:#6e6e6e;}
+
+.apiIgn .apiIgn-LocalUpload input#apiIgn-uploadFile { cursor: not-allowed;  background-color: #fff; border: 1px solid silver;  height: 22px; width: 100%;border-radius: 4px;  line-height: 22px; padding-left: 5px;color: #6e6e6e; font-size: 11px;}		
+.apiIgn .apiIgn-LocalUpload .apiIgn-fileUpload {position: relative;overflow: hidden;margin: 0px;width: 100%;}
+		
+
+/* #progressBar {background-image: url("../images/progress_bar.GIF"); background-repeat: repeat-x;} */
+
+.apiIgn .apiIgn-wrapper{
+	z-index:0!important;
+	padding-top:0px!important;
+	position: static!important;
+}
+
+
+ 
+  
+  
+  

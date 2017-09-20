@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Delegaciones</name>
+    <LookAt>
+      <longiude>-3.00</longiude>
+      <latitude>40.00</latitude>
+      <range>2000000</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <Style id="Madrid_CENTRAL">
+      <IconStyle>
+        <Icon>
+          <href>http://www.ign.es/ign/img/delegaciones/Madrid_CENTRAL.gif</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon31">
+      <IconStyle>
+        <Icon>
+          <href>http://www.ign.es/ign/img/delegaciones/icon31.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mapmarker">
+      <IconStyle>
+        <Icon>
+          <href>http://www.ign.es/ign/img/delegaciones/mapmarker.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mapmarker2">
+      <IconStyle>
+        <Icon>
+          <href>http://www.ign.es/ign/img/delegaciones/mapmarker2.png</href>
+          <scale>1</scale>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Casa del Mapa-Real Observatorio Astron&amp;oacute;mico de Madrid</name>
+      <description>Direcci&amp;oacute;n: Alfonso XII, 3&lt;br/&gt;28014 Madrid&lt;br/&gt;Tel.: 91 597 95 64 de martes a viernes de 9:00 a 14:30&lt;br/&gt;91 506 12 61 s&amp;aacute;bados y domingos de 11:30 a 14:00 y de 16:00 a 18:30&lt;br/&gt;Fax: 91 527 19 35&lt;br/&gt;Horario:&lt;a href="http://www.ign.es/rom/visitas/index.jsp" target="_blank;"&gt;Reservado para la visitas concertadas al ROM.&lt;/a&gt;</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6884,40.4094</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla La Mancha - Centro astron&amp;oacute;mico de Yebes</name>
+      <description>Direcci&amp;oacute;n: Cerro de la Palera s/n&lt;br/&gt;19141 Yebes (Guadalajara)&lt;br/&gt;Tel.: 949 29 03 11-37 Ext.202&lt;br/&gt;Fax:949 29 00 63</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.0886,40.5249</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Astron&amp;oacute;mico&lt;br/&gt;Centro Astron&amp;oacute;mico Hispano-Alem&amp;aacute;n (CAHA) de Calar Alto</name>
+      <description>Direcci&amp;oacute;n: Ctra. de Calar Alto (pasado el n&amp;uacute;cleo urbano de Gergal)&lt;br/&gt;04080 Gergal (Almer&amp;iacute;a)&lt;br/&gt;Aptdo. Correos: 511 - 04080 Almer&amp;iacute;a&lt;br/&gt;Tel.: 95 023 09 88 (Oficina) / 95 063 25 00 (Observatorio)&lt;br/&gt;Fax: 95 023 03 73 (Oficina) / 95 063 25 04 (Observatorio) / 95 063 25 92 (Observatorio)</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.5488,37.2225</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Astron&amp;oacute;mico&lt;br/&gt;Centro de Investigaci&amp;oacute;n de las Ciencias Geogr&amp;aacute;ficas y Astronom&amp;iacute;a (OAN)</name>
+      <description>Direcci&amp;oacute;n: Observatorio Astron&amp;oacute;mico Nacional&lt;br/&gt;Campus de la Universidad de Alcal&amp;aacute; de Henares&lt;br/&gt;Carretera Madrid - Barcelona km 33,600&lt;br/&gt;28871 Alcal&amp;aacute; de Henares (Madrid)&lt;br/&gt;Aptdo. Correos: 112 - 28803 Alcal&amp;aacute; de Henares (Madrid)&lt;br/&gt;Tel.: 91 885 50 60 / 91 885 50 61&lt;br/&gt;Fax: 91 885 50 62</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.3474,40.5082</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Astron&amp;oacute;mico&lt;br/&gt;Instituto de Radioastronom&amp;iacute;a Milim&amp;eacute;trica (IRAM)</name>
+      <description>Direcci&amp;oacute;n: Avda. Divina Pastora, 7 (n&amp;uacute;cleo central)&lt;br/&gt;18012 Granada&lt;br/&gt;Tel.: 95 880 54 54&lt;br/&gt;Fax: 95 822 23 63</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6024,37.1844</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Astron&amp;oacute;mico&lt;br/&gt;Observatorio de Pico Veleta</name>
+      <description>Direcci&amp;oacute;n: Pico Veleta&lt;br/&gt;18152 D&amp;iacute;lar (Granada)&lt;br/&gt;Tel.: 95 848 20 02&lt;br/&gt;Fax: 95 848 11 48</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.3905,37.0684</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Centro Geof&amp;iacute;sico de Canarias</name>
+      <description>Direcci&amp;oacute;n: La Marina, 20 2&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;Edificio de Servicios M&amp;uacute;ltiples&lt;br/&gt;38001 Santa Cruz de Tenerife&lt;br/&gt;Tel.: 92 228 70 54 - 66&lt;br/&gt;Fax: 92 224 80 21&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-16.247,28.4720</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de Alicante</name>
+      <description>Direcci&amp;oacute;n: Plaza de San Juan de Dios, 3&lt;br/&gt;03010 Alicante&lt;br/&gt;Tel.: 96 525 73 12 / 96 525 70 07 &lt;br/&gt;Fax: 96 525 73 12 / 96 525 70 07</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.4869,38.3556</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de Almer&amp;iacute;a</name>
+      <description>Direcci&amp;oacute;n: Camino Sismol&amp;oacute;gica, 26&lt;br/&gt;04008 Almer&amp;iacute;a&lt;br/&gt;Tel.: 95 027 71 22 (Observatorio) / 95 075 92 10 (Servicio Regional) &lt;br/&gt;Fax: 95 027 71 22 (Observatorio) / 95 027 71 22 (Servicio Regional)</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.4592,36.8522</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de Logro&amp;ntilde;o</name>
+      <description>Direcci&amp;oacute;n: Miguel de Villanueva, 7  7&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;26001 Logro&amp;ntilde;o&lt;br/&gt;Tel.: 94 124 43 44(Observatorio) / 94 175 92 65 (Servicio Regional)&lt;br/&gt;Fax: 94 123 47 67 (Observatorio) / 94 125 22 07 (Observatorio) / 94 123 47 67 (Servicio Regional)</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.5032,42.4577</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de M&amp;aacute;laga</name>
+      <description>Direcci&amp;oacute;n: Ramos Carri&amp;oacute;n, 48&lt;br/&gt;29016 M&amp;aacute;laga&lt;br/&gt;Aptdo. Correos: 61 - 29080 M&amp;aacute;laga&lt;br/&gt;Tel.: 95 221 20 18 (Observatorio) / 95 221 20 18(Servicio Regional)&lt;br/&gt;Fax: 95 222 32 38(Observatorio) / 95 222 32 38</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.3939,36.7261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de Santiago</name>
+      <description>Direcci&amp;oacute;n: Cuesta Santa Isabel&lt;br/&gt;15705 Santiago de Compostela ( A Coru&amp;ntilde;a)&lt;br/&gt;Tel.: 98 158 53 92&lt;br/&gt;Fax: 98 158 53 92</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-8.5519,42.8863</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio Geof&amp;iacute;sico de Toledo&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Avenida de Adolfo Su&amp;aacute;rez( antigua Ctra. de Avila  Km. 3,5)&lt;br/&gt;45005 Toledo&lt;br/&gt;Tel.: 92 525 43 49 (Observatorio) / 92 525 06 42  (Observatorio) / 92 598 92 70 (Servicio Regional)</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.050308,39.880747</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Observatorio de S. Pablo de los Montes</name>
+      <description>Direcci&amp;oacute;n: 45120 San Pablo de los Montes (Toledo)&lt;br/&gt;Tel.: 92 541 51 80</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.3400,39.5400</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Geof&amp;iacute;sico&lt;br/&gt;Centro Sismol&amp;oacute;gico de Sonseca</name>
+      <description>Direcci&amp;oacute;n: Villaverde s/n&lt;br/&gt;45100 Sonseca (Toledo)&lt;br/&gt;Tel.: 92 538 31 08&lt;br/&gt;Fax: 92 538 36 00</description>
+      <styleUrl>#mapmarker2</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.9700,39.6700</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Andaluc&amp;iacute;a Occidental - Sevilla&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza de Espa&amp;ntilde;a. Sector III&lt;br&gt;Planta Baja &lt;br/&gt;41013 Sevilla&lt;br/&gt;Tel.: 95 556 93 20-21&lt;br/&gt;Fax: 95 556 93 28&lt;br/&gt;Horario:De  Lunes a Viernes de 09:00 a 14:30</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.9869,37.3771</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dependencia provincial-Granada&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Divina Pastora, 7 y 9, , batería central, local 23&lt;br/&gt;18012 Granada&lt;br/&gt;Tel.: 95 827 66 67&lt;br/&gt;Fax: no tienen&lt;/br&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6025,37.1844</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Andaluc&amp;iacute;a Oriental-Almer&amp;iacute;a&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Camino de la Sismol&amp;oacute;gica, 26&lt;br/&gt;04008 Almer&amp;iacute;a&lt;br/&gt;Tel.: 95 075 92 10&lt;br/&gt;Fax: 95 027 71 22&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.4592,36.8522</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Andaluc&amp;iacute;a Oriental - M&amp;aacute;laga&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Ramos Carri&amp;oacute;n, 48, Apd.61&lt;br/&gt;29016 M&amp;aacute;laga&lt;br/&gt;Tel.: 952 98 94 52&lt;br/&gt;Fax: 952 98 94 86&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.3939,36.7261</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Andaluc&amp;iacute;a Oriental-Ja&amp;eacute;n&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza de las Batallas S/N&lt;br/&gt;23071 Ja&amp;eacute;n &lt;br/&gt;Tel.: 953 99 91 05 - 92 05&lt;br/&gt;Fax: 953 99 91 99&lt;/br&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7886,37.7727</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional-Zaragoza (Sede del servicio)&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Coso, 55, 5&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;50001 Zaragoza&lt;br/&gt;Tel.: 97 699 90 24&lt;br/&gt;Fax: 97 699 90 26</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.8794,41.6519</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Arag&amp;oacute;n-Huesca&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza de Cervantes,5 4&lt;sup&gt;o&lt;/sup&gt; izquierda.&lt;br/&gt;22003 Huesca.&lt;br/&gt;Tel.: 97 476 9140&lt;br/&gt;Fax: 97 476 9146&lt;/br&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.4150,42.1389</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional-Oviedo&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza de Espa&amp;ntilde;a, 3, 1&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;33007 Oviedo&lt;br/&gt;Tel.: 98 476 93 10&lt;br/&gt;Fax: 98 527 70 39</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.8534,43.3608</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional-Santander (Sede del servicio) &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Vargas, 53, 10&lt;sup&gt;a&lt;/sup&gt; planta&lt;br/&gt;39071 Santander&lt;br/&gt;Tel.: 94 299 93 60&lt;br/&gt;Fax: 94 299 93 69</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.8206,43.4597</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Cantabria Pa&amp;iacute;s Vasco-Donostia San Sebasti&amp;aacute;n&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n:Plaza P&amp;iacute;o XII, 6, 2 &lt;sup&gt;a&lt;/sup&gt;planta&lt;br/&gt;20010 San Sebasti&amp;aacute;n&lt;br/&gt;Tel.: 94 398 93 45&lt;br/&gt;Fax: 94 398 91 46&lt;/br&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-1.9861,43.3223</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - Valladolid &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Calle Francesco Scrimieri, 1 &lt;br/&gt;47014 Valladolid&lt;br/&gt;Tel.: 983 99 91 72&lt;br/&gt;Fax: 983 99 91 31 - 32&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.7374,41.6490</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n-&amp;Aacute;vila&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n:C/ de los Hornos Caleros,1-Paseo del Ferrocarril, 3.&lt;br/&gt;05071 &amp;Aacute;vila&lt;br/&gt;Tel.: 92 075 91 48/34&lt;br/&gt;Fax: 92 075 91 68&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.6881,40.6567</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n-Burgos &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: C/ Vitoria, 34&lt;br/&gt;09004 Burgos&lt;br/&gt;Tel.: 94 776 91 80-82&lt;br/&gt;Fax: 94 776 91 39&lt;/br&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6956,42.3417</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional-Palencia&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Avda. de Sim&amp;oacute;n Nieto, 10, Planta Baja. EASM&lt;br/&gt;34041 Palencia&lt;br/&gt;Tel.: 97 999 90 63&lt;br/&gt;Fax: 97 974 27 80</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.5386,42.0164</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - Salamanca &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Gran V&amp;iacute;a, 31, 3&lt;sup&gt;a&lt;/sup&gt; planta&lt;br/&gt;37001 Salamanca&lt;br/&gt;Tel.: 923 75 91 17&lt;br/&gt;Fax: 923 75 91 99&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.6597,40.9664</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - Segovia &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza del Seminario, 1, bajo&lt;br/&gt;40001 Segovia&lt;br/&gt;Tel.: 921 75 91 24&lt;br/&gt;Fax: 921 75 91 01&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.1197,40.9492</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - Soria&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Alfonso VIII, 2&lt;sup&gt;a&lt;/sup&gt;&lt;br/&gt;42003 Soria&lt;br/&gt;Tel.: 975 75 92 20&lt;br/&gt;Fax: 975 22 64 02&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.4696,41.7636</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - Zamora &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Plaza de la Constituci&amp;oacute;n, 1, 2&lt;sup&gt;a&lt;/sup&gt;Planta&lt;br/&gt;49003 Zamora&lt;br/&gt;Tel.: 980 75 91 41&lt;br/&gt;Fax: 980 53 06 17&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.7439,41.5050</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional del IGN en Catalu&amp;ntilde;a-Barcelona (Sede del servicio) &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Carrer de Bergara, 12, 4&lt;sup&gt;a&lt;/sup&gt; planta&lt;br/&gt;08002 Barcelona&lt;br/&gt;Tel.: 93 520 96 18&lt;br/&gt;Fax: 93 520 96 28&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>2.1686,41.3861</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Unidad Provincial Instituto Geogr&amp;aacute;fico Nacional en Tarragona&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Pla&amp;ccedil;a imperial Tarraco, 4 5&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;43005 Tarragona&lt;br/&gt;Tel.: 977 99 90 68 - 69&lt;br/&gt;Fax: 977 99 90 98&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>1.2444,41.1192</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Extremadura-Badajoz &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: C/D&amp;iacute;az Brito, n&lt;sup&gt;o&lt;/sup&gt;12-B&lt;br/&gt;06005 Badajoz&lt;br/&gt;Tel.: 92 497 90 30&lt;br/&gt;Fax: 92 497 90 36&lt;br/&gt;Horario: De Lunes a Viernes de 8:30 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-6.9728,38.8748</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicio Regional-A Coru&amp;ntilde;a (Sede del servicio) &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Salvador de Madariaga,s/n, 9&lt;sup&gt;o&lt;/sup&gt; (Ala Norte). EASM&lt;br/&gt;15071 A Coru&amp;ntilde;a&lt;br/&gt;Tel.: 98 198 97 00&lt;br/&gt;Fax: 98 198 97 14</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-8.4064,43.3462</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Murcia - La casa del mapa - Murcia &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Palacio de las Balsas.&lt;br/&gt; Plaza Balsas, 1-1&lt;sup&gt;a&lt;/sup&gt;Planta&lt;br/&gt;30001 Murcia&lt;br/&gt;Tel.:Tel: 968 98 92 46/57-58-59&lt;br/&gt;Fax:968 22 24 11&lt;br/&gt;Horario: De Lunes a Viernes de 8:30 a 14:30(Julio y Agosto de 09:00 a 14:00)</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-1.1259,37.9856</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n La Rioja-Logro&amp;ntilde;o&lt;br/&gt;</name>
+      <description>Servicio Regional del IGN:&lt;br/&gt;Gran V&amp;iacute;a, 49, entreplanta Izq.&lt;br/&gt;26006 Logro&amp;ntilde;o&lt;br/&gt;Tel.: 94 175 90 17&lt;br/&gt;Fax: 94 175 90 22&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.4456,42.4642</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Comunidad Valenciana - Valencia &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n:Joaqu&amp;iacute;n Ballester, 39, 5&lt;sup&gt;a&lt;/sup&gt;Planta.Edificio Servicios M&amp;uacute;ltiples&lt;br/&gt;46009 Valencia&lt;br/&gt;Tel.: 96 307 94 14 &lt;br/&gt;Fax: 96 307 94 13 - 17&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.3908,39.4822</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Comunidad Valenciana-Castell&amp;oacute;n de la Plana &lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Escultor Viciano,2. Edificio de Servicios m&amp;uacute;ltiples&lt;br/&gt;12002 Castell&amp;oacute;n de la Plana&lt;br/&gt;Tel.: 96 475 93 11&lt;br/&gt;Fax: 96 475 93 75&lt;br&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.0372,39.9839</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Arag&amp;oacute;n - La casa del mapa - Zaragoza&lt;br/&gt;</name>
+      <description>Ciudad: Zaragoza&lt;br/&gt;CP: 50001&lt;br/&gt;Direcci&amp;oacute;n: C/ Coso 55-5&lt;br/&gt;Tel&amp;eacute;fono: 976 99 90 24&lt;br/&gt;Fax: 976 99 90 26 &lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.8799,41.6518</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Asturias - La casa del mapa - Oviedo &lt;br/&gt;</name>
+      <description>Ciudad: Oviedo&lt;br/&gt;CP: 33007&lt;br/&gt;Direcci&amp;oacute;n: Plaza de Espa&amp;ntilde;a, 3. 1&lt;sup&gt;o&lt;/sup&gt;. Edificio Moptma&lt;br/&gt;Tel&amp;eacute;fono: 984 76 93 35&lt;br/&gt;Fax: 984 76 93 46&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-5.8532,43.3602</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Cantabria Pa&amp;iacute;s Vasco - La casa del mapa - Santander&lt;br/&gt;</name>
+      <description>Ciudad: Santander&lt;br/&gt;CP: 39010&lt;br/&gt;Direcci&amp;oacute;n: C/ Vargas 53. Planta Baja&lt;br/&gt;Tel&amp;eacute;fono: 942 99 93 60/63&lt;br/&gt;Fax: 942 99 93 69&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.8213,43.4596</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Castilla y Le&amp;oacute;n - La casa del mapa - Palencia &lt;br/&gt;</name>
+      <description>Ciudad: Palencia&lt;br/&gt;CP: 34005&lt;br/&gt;Direcci&amp;oacute;n: Avenida de Sim&amp;oacute;n Nieto 10. Planta Baja EASM&lt;br/&gt;Tel&amp;eacute;fono: 979 75 09 98&lt;br/&gt;Fax: 979 74 27 80&lt;br/&gt;Horario: De Lunes a Viernes de 8:30 a 14:30</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.5350,42.0147</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute; Galicia - La casa del mapa - A Coru&amp;ntilde;a &lt;br/&gt;</name>
+      <description>Ciudad: A Coru&amp;ntilde;a&lt;br/&gt;CP: 15003&lt;br/&gt;Direcci&amp;oacute;n: C/ San Andr&amp;eacute;s 162. 3&lt;sup&gt;o&lt;/sup&gt;&lt;br/&gt;Tel&amp;eacute;fono: 981 98 97 04&lt;br/&gt;Fax: 981 98 97 14&lt;br/&gt;Horario: De Lunes a Viernes de 9:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-8.4054,43.3463</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La casa del mapa - Diputaci&amp;oacute;n de Pontevedra, Cartoteca Provincial&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: Calle Padre Amoedo,n&lt;sup&gt;o&lt;/sup&gt;1, 2&lt;sup&gt;a&lt;/sup&gt;Planta&lt;br/&gt;Tel&amp;eacute;fono: 986 20 11 30 / 986 80 41 00&lt;br/&gt;Fax: 986 20 11 80&lt;br/&gt;Horario: De Lunes a Viernes 9:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-9.0972,42.7710</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La casa del mapa - Mallorca&lt;br/&gt;</name>
+      <description>Ciudad: Palma de Mallorca &lt;br/&gt;CP: 07001&lt;br/&gt;Direcci&amp;oacute;n: Cuesta de Santo Domingo 11&lt;br/&gt;Tel&amp;eacute;fono: 971 22 59 45&lt;br/&gt;Fax: 971 22 59 45&lt;br/&gt;Horario: De Martes a viernes de 9:30 a 19:00; Lunes de 9:30 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>2.65180,39.5677</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La casa del mapa - Valladolid&lt;br/&gt;</name>
+      <description>Ciudad: Valladolid&lt;br/&gt;CP: 47014&lt;br/&gt;Direcci&amp;oacute;n: Calle Francesco Scrimieri, 1 &lt;br/&gt;Tel&amp;eacute;fono: 983 47 47 11&lt;br/&gt;Fax: 983 47 53 09&lt;br/&gt;Horario: Invierno de M a D 11:00-13:30 y 16:00-19:00. Verano De M a D 11:00-14:30 y 18:00-21:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.7445,41.6414</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n de Castilla la Mancha - Toledo</name>
+      <description>&lt;br/&gt;Direcci&amp;oacute;n: Avenida de Adolfo Su&amp;aacute;rez (antigua Ctra. de Avila  Km. 3,5)&lt;br/&gt;45005 Toledo&lt;br/&gt;Tel.: 925 98 92 75&lt;br/&gt;Fax: 925 98 92 79&lt;br/&gt;Horario:De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#mapmarker</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-4.050000,39.880590</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicios centrales - La casa del mapa - Central Madrid&lt;br/&gt;</name>
+      <description>CP: 28003&lt;br/&gt;Direcci&amp;oacute;n: General Ib&amp;aacute;&amp;ntilde;ez de &amp;Iacute;bero 3&lt;br/&gt;Tel&amp;eacute;fono: 91 597 94 53&lt;br/&gt;Fax: 91 553 29 13&lt;br/&gt;Horario: De Lunes a Viernes de 08:30 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7105,40.4457</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La casa del mapa - Castell&amp;oacute;n de la Plana&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: C/Escultor Viciano,2&lt;br/&gt;Tel&amp;eacute;fono: 964759311&lt;br/&gt;&lt;br/&gt;Horario: De 08:30 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-0.0391,39.9838</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Delegaci&amp;oacute;n Canarias - Santa Cruz de Tenerife&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: La Marina, 20 2&lt;sup&gt;o&lt;/sup&gt;. Edificio de Servicios M&amp;uacute;ltiples. 38001 Santa Cruz de Tenerife&lt;br/&gt;Tel&amp;eacute;fono: 92 228 70 54 - 66&lt;br/&gt;Fax: 92 224 80 21&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-16.247,28.4720</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>La casa del mapa - La Rioja&lt;br/&gt;</name>
+      <description>Ciudad: Logro&amp;ntilde;o&lt;br/&gt;CP: 26002&lt;br/&gt;Direcci&amp;oacute;n: P&amp;eacute;rez Gald&amp;oacute;s 29, bajo&lt;br/&gt;Tel&amp;eacute;fono: 941 75 92 65&lt;br/&gt;Fax: no tiene&lt;br/&gt;Horario: De lunes a viernes de 09:00 a 14:00</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-2.45,42.46</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Casa del Mapa - Real Observatorio Astron&amp;oacute;mico de Madrid &lt;br/&gt;</name>
+      <description>Ciudad: Madrid&lt;br/&gt;CP: 28014&lt;br/&gt;Direcci&amp;oacute;n: C/ Alfonso XII, N&lt;sup&gt;o&lt;/sup&gt;3&lt;br/&gt;Tel&amp;eacute;fono: 91 597 95 64&lt;br/&gt;Horario: De Lunes a Viernes de 09:00 a 14:30&lt;/br&gt;Tel&amp;eacute;fono: 91 506 12 61&lt;br/&gt;Horario: s&amp;aacute;bados y domingos de 11:30 a 14:00 Reservado para la visitas concertadas al ROM.</description>
+      <styleUrl>#icon31</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.6884,40.4095</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Servicios Centrales-Madrid&lt;br/&gt;</name>
+      <description>Direcci&amp;oacute;n: General Iba&amp;ntilde;ez de &amp;Iacute;bero, 3&lt;br/&gt;28003 Madrid&lt;br/&gt;Tel.: 91 597 94 53/91 5979644&lt;br/&gt;Fax: 91 553 29 13 CP: 28003&lt;br/&gt;</description>
+      <styleUrl>#Madrid_CENTRAL</styleUrl>
+      <Point>
+        <extrude>1</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-3.7103,40.4458</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,309 @@
+/************************************* responsive ********************************************/
+.apiIgn-map,.apiIgn #ol-viewport {
+	height: 100%;
+	max-height: 100%;
+	max-width: 100%;
+	position: relative;
+	bottom: 0;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+@media ( min-width : 768px) {
+	.apiIgn-info-panel {
+		display: none;
+	}
+}
+
+@media (max-width: 767px){
+	.apiIgn-map,.apiIgn #ol-viewport {
+		height: 100%;
+		max-height: 100%;
+		max-width: 100%;
+		position: relative;
+		bottom: 0;
+		top: 0;
+		left: 0;
+		right: 0;
+	}
+
+	/*disable controls*/
+	.ol-zoom {
+		display: none;
+	}
+	.apiIgn .ol-mouse-position {
+		display: none;
+	}
+	.apiIgn .set-mapa {
+		display: none;
+	}
+	.apiIgn .set-pnoa {
+		display: none;
+	}
+	.apiIgn .set-hibrido {
+		display: none;
+	}
+	.apiIgn .apiIgn-setZoomBox {
+		display: none;
+	}
+	.apiIgn .apiIgn-panelBlock {
+		display: none !important;
+	}
+
+	/*change center map control*/
+	.apiIgn .ol-zoom-extent {
+		top: initial !important;
+		bottom: 0.5em;
+		left: 0.5em;
+	}
+	.apiIgn .ol-zoom-extent>button {
+		background-image: url("../images/movilRecenter.png") !important;
+	}
+	.apiIgn .ol-zoom-extent>button:hover {
+		background: url("../images/movilRecenter.png") no-repeat scroll center
+			#ffffff !important;
+	}
+
+	/*map buttons*/
+	.apiIgn .set-mapaMovil {
+		top: 0.5em;
+		right: 0.5em;
+		display: block;
+	}
+	.apiIgn .set-mapaMovil>a {
+		line-height: 16pt;
+		color: #fff !important;
+		font-size: 9pt;
+		font-weight: bold;
+		font-family: Calibri, Arial, sans serif;
+		text-decoration: none !important;
+		background: #00849F;
+		padding: 0px;
+		border-radius: 2px;
+		width: 50px;
+		height: 16pt;
+		display: block;
+		text-align: center;
+		box-shadow: -1px 1px 5px 1px #2e2e2e;
+		position: relative;
+		right: 0em;
+		top: 0em;
+	}
+	.apiIgn .apiIgn-baselayerSelector {
+		display: none!important;
+	}
+	.apiIgn-closer {
+		float: right;
+	}
+	.apiIgn-closer:hover {
+		cursor: pointer;
+	}
+	a#apiIgn-toolsMenu {
+		position: relative;
+		top: 0em.;
+		left: 0em;
+		font-size: 16pt;
+		height: 16pt;
+		width: 16pt;
+		box-shadow: none;
+		float: left;
+	}
+	#apiIgn-toolsMenu.active:after,#configMenu.active:after {
+		border: none;
+	}
+	.apiIgn .apiIgn-cdPanel {
+		width: 0px;
+	}
+	.apiIgn .apiIgn-cdPanel.is-visible {
+		border-radius: 0;
+		min-height: 90px !important;
+		min-width: 0px;
+		width: 50% !important;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		border: none;
+		box-shadow: none;
+		box-shadow: 0px 0px 6px 3px #2e2e2e;
+		height: 99.9% !important;
+	}
+	.apiIgn .apiIgn-toolsPanelBox {
+		margin: 0px !important;
+		margin-top: 5px !important;
+		margin-left: 5px !important;
+	}
+	.apiIgn .apiIgn-toolsPanel {
+		display: none !important;
+	}
+	.apiIgn .apiIgn-toolspanelTitle {
+		width: 100% !important;
+	}
+	.apiIgn .apiIgn-toolspanelTitle a {
+		padding-left: 30px !important;
+	}
+	.apiIgn .apiIgn-busquedasIGN {
+		line-height: 16pt;
+		background: url("../images/lupa.png") no-repeat scroll 7px 4px #fff;
+		height: 16pt;
+		border-radius: 2px;
+		border: none;
+		box-shadow: none;
+		width: 160px;
+		-webkit-box-shadow: none;
+		padding: 0 0 0 30px;
+		color: #6e6e6e;
+		display: block;
+		top: -0.2em;
+		left: -2.5em;
+		font-family: Calibri, Arial, sans-serif;
+		font-size: 11px;
+	}
+	.apiIgn .apiIgn-setScale {
+		bottom: 40px;
+		float: right;
+		font-size: 11px;
+		right: 0.2em;
+		padding:0 6px;
+		min-width:0;
+	}
+	.apiIgn .apiIgn-attributionIGN {
+		bottom: 10px;
+		float: right;
+		font-size: 11px;
+		right: 0.2em;
+		padding:0 6px;
+		min-width:0;
+	}	
+	.apiIgn-info-panel {
+		border: 1px solid silver;
+		overflow-x: scroll;
+		overflow-y: scroll;
+		width: 100%;
+		min-height: 0;
+		height: 73% !important;
+		padding: 0.2em;
+		background: #fff;
+		border-radius: 4px;
+	}
+	.apiIgn-info-panel .overview {
+		width: 100%;
+	}
+	.apiIgn-info-panel .apiIgn-info-title {
+		color: rgba(0, 0, 0, 0.5);
+		font-size: 24px;
+		width: 100%;
+		display: block;
+		font-family: 'viewer', Calibri, verdana, sans-serif;
+	}
+	::-webkit-scrollbar {
+		width: 12px;
+		height: 12px;
+	}
+	::-webkit-scrollbar-track {
+		-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+		border-radius: 10px;
+	}
+	::-webkit-scrollbar-thumb {
+		border-radius: 10px;
+		-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+	}
+	.apiIgn .apiIgn-location {
+		bottom: 2.85em;
+		top: initial;
+		left: 10px;
+	}
+	.apiIgn .apiIgn-rotateNorth {
+		bottom: 4.9em;
+		top: initial;
+		left: 10px;
+	}
+	.apiIgn-info-panel .apiIgn-info-title:before {
+		margin-right: 3px;
+	}
+	.apiIgn-info-panel .featInfo {
+		color: #2e2e2e;
+		font-family: Calibri, arial, verdana !important;
+		font-size: 10px;
+		line-height: 14px;
+		text-align: justify;
+		margin-top: 0.3em;
+		border-bottom: 1px dotted silver;
+		padding-bottom: 0.3em;
+		overflow: hidden;
+	}
+	.apiIgn a.closeInfo {
+		float: right;
+		clear: both;
+		color: #808080;
+		font-weight: bold;
+		font-size: 12px;
+		cursor: pointer;
+		width: 16px;
+		height: 16px;
+		text-align: center;
+		background: #fff;
+		border-radius: 3px;
+		border: 1px solid #808080;
+	}
+	.apiIgn .apiIgn-lryList li {
+		background: none;
+		margin: 0.5em 0;
+		padding: 0;
+		text-decoration: none !important;
+	}
+	.apiIgn .apiIgn-lryList li  span.infoList {
+		background: transparent;
+		padding: 3px;
+		font-size: 12px;
+		color: #576C90;
+		width: 100%;
+		display: block;
+		border-bottom: 3px solid #576C90;
+		text-transform: uppercase;
+	}
+	}
+	@media ( max-width : 300px) {
+		.cd-panel.is-visible {
+			width: 60% !important;
+		}
+	}
+
+	/*
+
+	
+	#searching{margin: 0; width: 35%; height:20px; top: 40px; left:15%;position: absolute; z-index:3;}
+	
+	#busquedasIGN{padding: 0 0 0 20%;line-height: 11px;height: 22px;width: 100%;font-size:10px;background-size: 12px 12px;}
+
+
+	
+
+
+	
+	.ui-widget{font-family: Calibri,Arial, Sans-serif;font-size: 10px;color:#6e6e6e;}
+	
+
+	
+	.baselayerSelector {left: 10px; right:initial;}
+	.set-buscador{top:10px!important;}
+	.set-mapaMovil {right: 10px;display: block;}
+
+
+	.cd-panel #info-popup{position:static;width:100%!important;}
+	#info-popup-content{width:100%;padding: 15px 3px;}
+	.featInfo{width:90%;}
+	.featInfo div{width:100%;float:left;margin:0;}
+	.mobilePopupStyle{width:auto;max-width:10%;}
+	#info-popup {left:0;top:0;bottom: initial;width:50%;z-index:100008;position:absolute;}
+	#info-measure {left:initial;right:10px;top:45px;bottom: initial;width:auto;max-width:25%;z-index:100008;position:absolute;}
+	
+	
+*/
+
+
+@media ( max-width : 300px) {
+	#busquedasIGN {
+		width: 140px;
+	}
+}
